@@ -11,6 +11,7 @@ I am an Applied AI AAS student in ITAI-1378, focused on computer vision, practic
 - GitHub: https://github.com/burakaitechnologies
 - Expected repository URL: https://github.com/burakaitechnologies/Ahmet-Burak-Solak-AI-Portfolio
 - LinkedIn: https://www.linkedin.com/in/ahmet-burak-s-582676204/
+- Email: 145400756+burak626@users.noreply.github.com
 
 ## Technical Skills
 
@@ -30,6 +31,7 @@ I am an Applied AI AAS student in ITAI-1378, focused on computer vision, practic
 This course portfolio includes hands-on labs and written reflections covering the full path from basic pixels to applied AI vision systems.
 
 - [Course Folder](ComputerVision-ITAI1378/)
+- [Course Projects Summary](CourseProjects.md)
 - [Plant Disease Detection Proposal](ComputerVision-ITAI1378/Midterm-Plant-Disease-Proposal/)
 - [Object Tracking and Zone Analytics](ComputerVision-ITAI1378/L11-Object-Tracking-Zone-Analytics/)
 - [Visual Language Models](ComputerVision-ITAI1378/L08-Visual-Language-Models/)
@@ -44,3 +46,4 @@ Each project folder contains the original notebook, report, slide deck, or refle
 
 - GitHub: https://github.com/burakaitechnologies
 - LinkedIn: https://www.linkedin.com/in/ahmet-burak-s-582676204/
+- Email: 145400756+burak626@users.noreply.github.com
