@@ -1,0 +1,13 @@
+*.md text eol=lf
+*.txt text eol=lf
+*.py text eol=lf
+*.ipynb text eol=lf
+*.bat text eol=crlf
+
+*.pdf binary
+*.pptx binary
+*.docx binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+
