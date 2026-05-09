@@ -9,6 +9,7 @@ I am an Applied AI AAS student in ITAI-1378, focused on computer vision, practic
 - Student: Ahmet Burak Solak
 - Program/Course: ITAI-1378 AI AAS
 - GitHub: https://github.com/burakaitechnologies
+- Expected repository URL: https://github.com/burakaitechnologies/Ahmet-Burak-Solak-AI-Portfolio
 - LinkedIn: https://www.linkedin.com/in/ahmet-burak-s-582676204/
 
 ## Technical Skills
@@ -43,4 +44,3 @@ Each project folder contains the original notebook, report, slide deck, or refle
 
 - GitHub: https://github.com/burakaitechnologies
 - LinkedIn: https://www.linkedin.com/in/ahmet-burak-s-582676204/
-
