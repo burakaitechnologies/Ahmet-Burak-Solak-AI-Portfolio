@@ -1,0 +1,20 @@
+# Python and notebook cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large temporary outputs
+*.log
+results/temp/
+
